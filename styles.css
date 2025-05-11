@@ -8,7 +8,7 @@
 }
 
 .About {
-  background-image: url('../portfolio/about.jpg'); /* Replace with your actual image path */
+  background-image: url('./about.jpg'); /* Replace with your actual image path */
   padding: 300px 0;
   background-size: cover;
   background-position: center;
@@ -18,7 +18,7 @@
   text-decoration-color: #0f1011;
 }
 .resume{
-  background-image: url('file:///C:/abu/portfolio/resume.jpeg'); /* Replace with your actual image path */
+  background-image: url('./resume.jpeg'); /* Replace with your actual image path */
   padding: 300px 0;
   background-size: cover;
   background-position: center;
@@ -127,7 +127,7 @@ section {
   background-color: #ffffff;
 }
 .skill{
-  background-image: url('file:///C:/abu/portfolio/skill.jpeg'); /* Replace with your actual image path */
+  background-image: url('./skill.jpeg'); /* Replace with your actual image path */
   padding: 300px 0;
   background-size: cover;
   background-position: center;
@@ -140,7 +140,7 @@ section {
 
 
 #projects {
-  background-image: url('file:///C:/abu/portfolio/project.jpeg'); /* Replace with your actual image path */
+  background-image: url('./project.jpeg'); /* Replace with your actual image path */
   padding: 300px 0;
   background-size: cover;
   background-position: center;
@@ -151,7 +151,7 @@ section {
   background-color: #f4f4f4;
 }
 #contact {
-  background-image: url('file:///C:/abu/portfolio/contact2.jpeg'); /* Replace with your actual image path */
+  background-image: url('./contact.jpeg'); /* Replace with your actual image path */
   padding: 200px 0;
   background-size: cover;
   background-position: center;
