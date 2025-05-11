@@ -8,7 +8,7 @@
 }
 
 .About {
-  background-image: url('file:///C:/abu/portfolio/aboutme.jpeg'); /* Replace with your actual image path */
+  background-image: url('../portfolio/about.jpg'); /* Replace with your actual image path */
   padding: 300px 0;
   background-size: cover;
   background-position: center;
