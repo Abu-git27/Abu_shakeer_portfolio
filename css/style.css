@@ -1,0 +1,177 @@
+/* Banner Section Background Styling */
+.banner {
+  background-image: url('file:///C:/abu/portfolio/bg1.jpeg');
+  padding: 300px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.About {
+  background-image: url('file:///C:/abu/portfolio/aboutme.jpeg'); /* Replace with your actual image path */
+  padding: 300px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #100606; /* Ensures text is visible on dark backgrounds */
+  position: relative;
+  text-decoration-color: #0f1011;
+}
+.resume{
+  background-image: url('file:///C:/abu/portfolio/resume.jpeg'); /* Replace with your actual image path */
+  padding: 300px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #100606; /* Ensures text is visible on dark backgrounds */
+  position: relative;
+  text-decoration-color: #0f1011;
+
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f9f9;
+  color: #0f1011;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h4, h5, h6 {
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #0a0f10 !important;
+  box-shadow: 0 2px 4px rgba(244, 240, 240, 0.05);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link {
+  color: #f6f2f2 !important;
+  transition: 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #0d6efd !important;
+  transform: scale(1.05);
+}
+
+
+/* Optional: Make text more readable over background */
+
+.banner .container {
+  position: relative;
+  z-index: 2;
+}
+
+/* Optional: Force white text if needed */
+.banner h1,
+.banner h4 {
+  color: #fff;
+}
+
+
+.banner h1, .banner h4 {
+  color: white;  /* Ensure the text is readable against the background */
+}
+
+
+.banner h1 {
+  font-size: 3rem;
+}
+
+.banner h4 {
+  font-weight: 300;
+}
+
+/* Buttons */
+.btn-dark {
+  background-color: #0d6efd;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 30px;
+  color: white;
+}
+
+.btn-dark:hover {
+  background-color: #0b5ed7;
+}
+
+/* Cards */
+.card {
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Section Backgrounds */
+section {
+  background-color: #ffffff;
+}
+.skill{
+  background-image: url('file:///C:/abu/portfolio/skill.jpeg'); /* Replace with your actual image path */
+  padding: 300px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #100606; /* Ensures text is visible on dark backgrounds */
+  position: relative;
+  text-decoration-color: #0f1011;
+}
+
+
+
+#projects {
+  background-image: url('file:///C:/abu/portfolio/project.jpeg'); /* Replace with your actual image path */
+  padding: 300px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #100606; /* Ensures text is visible on dark backgrounds */
+  position: relative;
+  text-decoration-color: #0f1011;
+  background-color: #f4f4f4;
+}
+#contact {
+  background-image: url('file:///C:/abu/portfolio/contact2.jpeg'); /* Replace with your actual image path */
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #100606; /* Ensures text is visible on dark backgrounds */
+  position: relative;
+  text-decoration-color: #0f1011;
+  background-color: #f4f4f4;
+}
+
+/* Footer */
+footer,
+section.bg-dark {
+  background-color: #222 !important;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Rounded Images */
+img.rounded-circle {
+  max-width: 200px;
+}
