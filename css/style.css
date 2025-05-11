@@ -1,6 +1,6 @@
 /* Banner Section Background Styling */
 .banner {
-  background-image: url('file:///C:/abu/portfolio/bg1.jpeg');
+  background-image: url('./C:\abu\portfolio\bg1.jpeg');
   padding: 300px 0;
   background-size: cover;
   background-repeat: no-repeat;
