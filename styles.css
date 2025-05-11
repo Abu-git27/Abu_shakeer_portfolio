@@ -1,6 +1,6 @@
 /* Banner Section Background Styling */
 .banner {
-  background-image: url('https://remarkable-croquembouche-f57db9.netlify.app/bg1.jpeg');
+  background-image: url('./https://remarkable-croquembouche-f57db9.netlify.app/bg1.jpeg');
   padding: 300px 0;
   background-size: cover;
   background-repeat: no-repeat;
