@@ -7,7 +7,7 @@ document.getElementById("whatsappBtn").addEventListener("click", function() {
 
 document.querySelector('#resumeBtn').addEventListener('click', function() {
   // Open resume in a new tab
-  window.open('Resume.pdf', 'https://drive.google.com/file/d/1Txa3jSiPPUfVCAV89wZb1lK__yM4Hk1y/view?usp=sharing'); // Replace with your correct path if it's different
+  window.open('Resume.pdf', 'https://drive.google.com/file/d/1-HD-v51OH_jx8iBIxR_-dyKHGBd999Lh/view?usp=sharing'); // Replace with your correct path if it's different
 });
 
 // Smooth scroll to sections when navbar links are clicked
